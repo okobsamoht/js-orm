@@ -1,0 +1,9 @@
+{
+  "name": "js-orm",
+  "version": "1.0.0",
+  "description": "javascript orm",
+  "main": "index.js",
+  "repository": "https://github.com/okobsamoht/js-orm.git",
+  "author": "Thomas BOKO <bokothomas@yahoo.fr>",
+  "license": "UNLICENCED"
+}
